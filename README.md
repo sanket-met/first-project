@@ -1,2 +1,3 @@
 # first-project
-timepass
+Project Desc :
+              Created for learning purpose
